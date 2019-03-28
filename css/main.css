@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+  font-family: Merriweather, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.launch-event {
+  color: #333;
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+}
+
+.holiday {
+  color: #991919;
+  border: 1px solid #b92828;
+  border-radius: 8px;
+  background-color: #f2bcbc;
+}
+
+.record-event {
+  color: #51603f;
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+}
+
+.date-event {
+  color: #38448e;
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  background-color: #d2d6f0;
+}
+
+td {
+  height: 180px;
+  border: 1px solid #ccc;
+}
+
+th {
+  border: 1px solid #ccc;
+}
+
+table {
+  border: 1px solid #ccc;
+}
